@@ -1,7 +1,8 @@
 
-# Are Probabilistic Robust Accuracy Bounded
+# On the Upper Limit of Probabilistic Robust Accuracy from a Bayes Error Perspective
 
-This repository contains the code accompanying the paper **"Are Probabilistic Robust Accuracy Bounded"**. The experiments and analyses are included in two Jupyter notebooks.
+This repository contains the code accompanying the paper **"On the Upper Limit of Probabilistic Robust Accuracy from a Bayes Error Perspective
+"**. The experiments and analyses are included in two Jupyter notebooks.
 
 ## Notebooks
 
